@@ -37,15 +37,12 @@ each codebase — the specific ways that repo has made capable people confidentl
 wrong, measured, with the command that proves each one. Guardrails travel
 further than review.
 
-### Here
+### Where the work is
 
-- **[shopify-store-audit](https://github.com/thanhchi4695-afk/shopify-store-audit)**
-  — audit any public Shopify store from outside. No login, no API key, no app
-  install. Node 18+, no dependencies. Its "things learned the hard way" section
-  is the honest part.
-
-Most of my work is in private client and product repositories, so this profile
-is the smaller half of it. Happy to walk through the rest live.
+Everything I build runs in private client and product repositories, so this
+profile is the smaller half of it. The product itself is public and live at
+**[sonicinvoices.com](https://sonicinvoices.com)**, and I am glad to walk
+through the code and the decisions behind it live.
 
 **Stack:** TypeScript · React · Vite · Node · Deno · Postgres · Supabase ·
 Shopify GraphQL Admin API · Cloudflare · Capacitor
